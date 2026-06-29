@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0081/krp/v1/juan/1
+seq: 1
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0081_WYG_001-1a, image: WYG0584/WYG0584-0003a.png}
+body:
+  text: 籌海圖編卷一明胡宗憲撰輿地全圖廣東沿海山沙圖福建沿海山沙圖浙江沿海山沙圖直𨽻沿海山沙圖山東沿海山沙圖遼陽沿海山沙圖籌海圖編卷一
+  hash: sha256:c421847f55202fe050cc98e7a10d4ef10f27fdbacca167ad29f917202c198dfd
+metadata:
+  title: 籌海圖編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:44:39.299983'
+  juan_title: 卷一
+  source:
+    repository: kanripo
+    path: KR2k0081/KR2k0081_001.txt
+hash: sha256:32e3662fdfb54e2e7cbd9adff3a42995e9dacba260c2b016e49a28736bdec891

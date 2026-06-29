@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0081/WYG/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0081_WYG_010-1a, image: WYG0584/WYG0584-0241a.png}
+body:
+  text: 籌海圖編目録經略一叙冦原除内逆定廟謨擇將材御將附實軍伍選士卒恤軍屬精教練足兵餉清屯種汰冗食慎募調客兵附集衆謀收圗籍定武畧鼓軍氣公賞罰禁妄殺處首級恤傷殘
+  hash: sha256:8eae97d967929572f2de638187258efe819df36a3764949499d531e37ff5c742
+metadata:
+  title: 籌海圖編
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:44:39.299983'
+  juan_title: 卷十一目録
+  source:
+    repository: kanripo
+    path: KR2k0081/KR2k0081_010.txt
+hash: sha256:339476542c5b150340cb6eea434cedfef1cb35facc5e29a8927229dfed83596c
