@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0081_WYG_001-1a, image: WYG0584/WYG0584-0003a.png}
 body:
-  text: 籌海圖編卷一明胡宗憲撰輿地全圖廣東沿海山沙圖福建沿海山沙圖浙江沿海山沙圖直𨽻沿海山沙圖山東沿海山沙圖遼陽沿海山沙圖籌海圖編卷一
-  hash: sha256:c421847f55202fe050cc98e7a10d4ef10f27fdbacca167ad29f917202c198dfd
+  text: 籌海圖編巻一明胡宗憲撰輿地全圖廣東沿海山沙圖福建沿海山沙圖浙江沿海山沙圖直𨽻沿海山沙圖山東沿海山沙圖遼陽沿海山沙圖籌海圖編巻一
+  hash: sha256:bf6c47bec496fee20bf7639bcba3fceb27663508c0d0f67ece9936d36e2ccacf
 metadata:
   title: 籌海圖編
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0081/KR2k0081_001.txt
-hash: sha256:32e3662fdfb54e2e7cbd9adff3a42995e9dacba260c2b016e49a28736bdec891
+hash: sha256:6f1cc0c2282a37cee15c12c224798307fd87a7f3cff1f4f5d49cb45b2f12b6f0
