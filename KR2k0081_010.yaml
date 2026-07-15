@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0081_WYG_010-1a, image: WYG0584/WYG0584-0241a.png}
 body:
-  text: 籌海圖編目録經略一叙冦原除内逆定廟謨擇將材御將附實軍伍選士卒恤軍屬精教練足兵餉清屯種汰冗食慎募調客兵附集衆謀收圗籍定武畧鼓軍氣公賞罰禁妄殺處首級恤傷殘
-  hash: sha256:8eae97d967929572f2de638187258efe819df36a3764949499d531e37ff5c742
+  text: 籌海圖編目録經略一敘冦原除內逆定廟謨擇將材御將附實軍伍選士卒恤軍屬精教練足兵餉清屯種汰冗食慎募調客兵附集衆謀收圗籍定武略鼓軍氣公賞罰禁妄殺處首級恤傷殘
+  hash: sha256:5a799b6fdf6d99946a793b112e74ce0cd2c2249225b05957978e6c2d9d697d85
 metadata:
   title: 籌海圖編
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0081/KR2k0081_010.txt
-hash: sha256:23825a205c9295d9efe169950dbeb9ef29a5345084d60885b693e9919b4cdbe7
+hash: sha256:71f579dbe11422e2d1216ba23d4695dace705b0e500dc272694b90204aae858c
